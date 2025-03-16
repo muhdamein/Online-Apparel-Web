@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500.51677 585.69645">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 72.60395px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 3.49057px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        stroke-width: 34.90575px;
+      }
+
+      .cls-4 {
+        font-family: LEMONMILK-Bold, 'LEMON MILK';
+        font-size: 100px;
+        font-weight: 700;
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <rect class="cls-2" x="132.79042" y="3.09165" width="199.82264" height="65.82226"/>
+        <rect class="cls-2" x="109.45343" y="97.13771" width="233.36985" height="65.82226" transform="translate(-25.72402 197.99439) rotate(-45)"/>
+      </g>
+      <path class="cls-1" d="M215.92813,128.32117c75.18385,0,136.13241,60.94856,136.13241,136.13241s-60.94856,136.13241-136.13241,136.13241-136.13241-60.94856-136.13241-136.13241"/>
+    </g>
+    <g>
+      <polyline class="cls-3" points="378.45148 68.91392 378.45148 17.45287 420.33838 17.45287"/>
+      <polyline class="cls-3" points="462.22527 17.45287 462.22527 68.91392 420.33838 68.91392"/>
+    </g>
+  </g>
+  <text class="cls-4" transform="translate(61.50338 555.52084)"><tspan x="0" y="0">ALLEY</tspan></text>
+</svg>
